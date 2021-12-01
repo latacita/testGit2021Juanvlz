@@ -1,11 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Vélez Velasco, Juan):                                      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1. clone
+2. branch Paco
+3. branch Lola
+4. checkout Paco
 13. checkout master             Please commit your changes or stash them before you switch branches.
 13. stash
 13. checkout master
