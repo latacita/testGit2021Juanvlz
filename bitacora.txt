@@ -6,7 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-<<<<<<< HEAD
 1. clone
 2. branch Paco
 3. branch Lola
