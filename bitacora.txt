@@ -9,3 +9,10 @@
 6. add bitacora.txt
 7. commit -m "Paso 7"
 8. checkout Lola
+9. -
+10. add bitacora.txt
+11. commit -m "Paso 11"
+20. add bitacora.txt
+21. commit -m "Paso 21"
+22. checkout Lola
+23. stash pop
