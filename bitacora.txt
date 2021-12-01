@@ -14,3 +14,9 @@
 13. stash
 13. checkout master
 14. La fusión sería por fast-forward
+15. -
+16. add bitacora.txt
+17. commit -m "Paso 17"
+18. merge Paco                  Merge conflict in bitacora.txt , el merge ha sido fast forward
+18. atom bitacora.txt
+19. atom bitacora.txt
