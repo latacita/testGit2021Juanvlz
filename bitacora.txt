@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+13. checkout master             Please commit your changes or stash them before you switch branches.
+13. stash
+13. checkout master
+14. La fusión sería por fast-forward
