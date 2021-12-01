@@ -6,10 +6,17 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+<<<<<<< HEAD
 1. clone
 2. branch Paco
 3. branch Lola
 4. checkout Paco
+6. add bitacora.txt
+7. commit -m "Paso 7"
+8. checkout Lola
+9. -
+10. add bitacora.txt
+11. commit -m "Paso 11"
 13. checkout master             Please commit your changes or stash them before you switch branches.
 13. stash
 13. checkout master
@@ -20,3 +27,12 @@
 18. merge Paco                  Merge conflict in bitacora.txt , el merge ha sido fast forward
 18. atom bitacora.txt
 19. atom bitacora.txt
+20. add bitacora.txt
+21. commit -m "Paso 21"
+22. checkout Lola
+23. stash pop
+24. fusion recursivamente
+25. add bitacora.txt
+26. commit -m "Paso 26"
+27. checkout master           Automatic merge failed; fix conflicts and then commit the result.
+28. merge Lola
